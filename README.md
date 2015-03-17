@@ -1,6 +1,6 @@
 Ben's Stamp Collection App.
 ---
 
-# About
+# About Ben
 
 Stuff about Ben's Stamps here...
